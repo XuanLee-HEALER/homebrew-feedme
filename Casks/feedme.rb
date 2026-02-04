@@ -1,6 +1,6 @@
 cask "feedme" do
-  version "1.0"
-  sha256 "ce842954926e3a623b9c888196422d525a538406501eef3685c6c90410b556f4"
+  version "1.1.1"
+  sha256 "b59dd73008de35c4c373fffa548399d491928561dd78dd466c999179c57c28d7"
 
   url "https://github.com/XuanLee-HEALER/FeedMe/releases/download/v#{version}/FeedMe-#{version}.dmg"
   name "FeedMe"
