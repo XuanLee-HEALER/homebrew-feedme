@@ -7,7 +7,7 @@ cask "seecn" do
   desc "Passive network status sensor for Claude Code CLI sessions"
   homepage "https://github.com/XuanLee-HEALER/seecn"
 
-  depends_on macos: ">= :big_sur"
+  depends_on macos: :big_sur
 
   app "seecn.app"
 
