@@ -1,6 +1,6 @@
 cask "seecn" do
-  version "0.1.0"
-  sha256 "4f3d0b66bd38d71abf22762ddc83d22b18fcc45675ed88d72182dd2f6d2b3883"
+  version "0.1.1"
+  sha256 "f1192fa25f71981ea8c7944c53b58cb8e05fc7af068998041ac7fe0ebc4959b6"
 
   url "https://github.com/XuanLee-HEALER/seecn/releases/download/v#{version}/seecn-macos.zip"
   name "seecn"
